@@ -6,7 +6,7 @@ I design and build AI-powered web apps — if it involves React, TypeScript, or 
 
 My main tech stack is React.js, TypeScript, Redux Toolkit, Next.js, and FastAPI. My favorite tools are Figma, Jira, and VS Code.
 
-I've worked on dashboards that handle 10,000+ data points, cut search-query latency by 50%, and made hiring smarter with LLM-powered screening.
+I've built interactive dashboards with SAP.
 
 When I'm not coding, you'll find me on the dance floor 💃 — creativity and discipline fuel everything I do!
 
